@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Rashmi
 🔭 I’m currently working on Flutter Mobile Applications<br>👯 I’m looking to collaborate on Web & Mobile App Development<br>🌱 I’m currently learning IT Undergraduate<br>
 
 
